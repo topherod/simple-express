@@ -1,9 +1,9 @@
 #Basic Express blog
 
 This repo features an express app that uses jade templates to serve a blog and includes basic routing.
-```
 
 ## Set Up
+```
 
 # clone the repo
 git clone <this-repo>
