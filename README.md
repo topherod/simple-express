@@ -4,7 +4,7 @@ This repo features an express app that uses jade templates to serve a blog and i
 ```
 
 ## Set Up
-```
+
 # clone the repo
 git clone <this-repo>
 cd <this-repo>
