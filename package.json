@@ -1,21 +1,21 @@
 {
-  "name": "treehouse-express-basics",
+  "name": "basic-express-blog",
   "version": "1.0.0",
-  "description": "This repo features an express app to serve as demo in the Express Basics course on Treehouse.",
+  "description": "This repo features an express app to serve a very simple blog using jade templates.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hdngr/treehouse-express-basics.git"
+    "url": "https://github.com/topherod/simple-express.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hdngr/treehouse-express-basics/issues"
+    "url": "https://github.com/topherod/simple-express/issues"
   },
-  "homepage": "https://github.com/hdngr/treehouse-express-basics",
+  "homepage": "https://github.com/topherod/simple-express",
   "dependencies": {
     "express": "^4.13.0",
     "jade": "^1.11.0"
